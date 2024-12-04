@@ -1,1 +1,1 @@
-# guru_frsit-1
+frist c1ass
